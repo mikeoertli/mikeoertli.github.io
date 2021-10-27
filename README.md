@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I haven't really gotten to play with this yet, so aside from this sentence, it's basically just whatever the site generator created for me :).
+I haven't really gotten to play with this yet, so for now, it just forwards to my (neglected) [website](https://opte.ch).
 
 <!--
 **mikeoertli/mikeoertli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
